@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Dineth Hesara</h1>
 <div align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="auto" height="auto" loop="infinite"/>
-
+    <<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+        
 - 🔭 I’m currently working at **Evolve Technologies (PVT) LTD**
 
 - 💬 Ask me about **HTML, CSS, JS, PHP, Laravel, SQL, React and etc..**
