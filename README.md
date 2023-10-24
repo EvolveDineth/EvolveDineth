@@ -1,8 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Dineth Hesara</h1>
 <div align="center">
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;">
-    <iframe src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" loop="infinite"></iframe>
-</div>
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" autoplay loop="infinite">
         
 - 🔭 I’m currently working at **Evolve Technologies (PVT) LTD**
 
