@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Dineth Hesara</h1>
 <div align="center">
-  <img src="https://64.media.tumblr.com/24b9001fa9cfcf4071e06351e849bcbc/tumblr_o7vs1zNO341runoqyo5_540.gifv" width="auto" height="auto" loop="infinite"/>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="auto" height="auto" loop="infinite"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineth-h&label=Profile%20views&color=0e75b6&style=flat" alt="dineth-h" /> </p>
 
@@ -29,13 +29,6 @@
 <a href="https://www.topcoder.com/members/dineth-h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="dineth-h" height="30" width="40" /></a>
 <a href="https://discord.gg/#8567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8567" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EvolveDineth&show_icons=true&locale=en&layout=compact" alt="EvolveDineth" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EvolveDineth&show_icons=true&locale=en" alt="EvolveDineth" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EvolveDineth&" alt="EvolveDineth" /></p>
-
 
 <!---
 EvolveDineth/EvolveDineth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
