@@ -2,12 +2,6 @@
 <div align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="auto" height="auto" loop="infinite"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dineth-h&label=Profile%20views&color=0e75b6&style=flat" alt="dineth-h" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dineth-h" alt="dineth-h" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dineth_hesara" target="blank"><img src="https://img.shields.io/twitter/follow/dineth_hesara?logo=twitter&style=for-the-badge" alt="dineth_hesara" /></a> </p>
-
 - 🔭 I’m currently working at **Evolve Technologies (PVT) LTD**
 
 - 💬 Ask me about **HTML, CSS, JS, PHP, Laravel, SQL, React and etc..**
