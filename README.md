@@ -4,7 +4,7 @@
         
 - 🔭 I’m currently working at **Evolve Technologies (PVT) LTD**
 
-- 💬 Ask me about **HTML, CSS, JS, PHP, Laravel, SQL, React and etc..**
+- 💬 Ask me about **HTML, CSS, JS, PHP, Laravel, SQL, React, Angular, Android/IOS Development and etc..**
 
 - 📫 How to reach me **dineth@evolve-sl.com**
 
